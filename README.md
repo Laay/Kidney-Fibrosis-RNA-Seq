@@ -17,3 +17,4 @@ or producing more SMOC2 RNA than normal are more likely develop kidney fibrosis.
 There are 4 sample groups being tested. Normal control group with and without fibrosis.
 And overexpressing smoc2 group with and without fibrosis. 
 
+![] (gene.jpeg)
