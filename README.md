@@ -18,3 +18,6 @@ There are 4 sample groups being tested. Normal control group with and without fi
 And overexpressing smoc2 group with and without fibrosis. 
 
 ![](gene.JPG)
+
+
+
