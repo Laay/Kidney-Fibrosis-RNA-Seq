@@ -2,7 +2,7 @@
 Differential gene expression analysis is a technique to determine
 whether the genes are express at significantly different levels 
 between two or more sample groups.
-We will use Deseq2 pacakage to model the gene counts and identify 
+I used Deseq2 pacakage to model the gene counts and identify 
 differntially expressed genes. 
 Therefor the goal of differntial expression analysis is to determine
 for each gene whether the differnece in expression between
